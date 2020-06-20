@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GeneralData\GeneralData.csproj" />
+    <ProjectReference Include="..\GeneralDTO\GeneralDTO.csproj" />
+  </ItemGroup>
+
+</Project>

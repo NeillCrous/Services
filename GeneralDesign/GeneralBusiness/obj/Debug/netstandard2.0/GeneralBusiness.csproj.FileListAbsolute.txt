@@ -1,0 +1,28 @@
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.deps.json
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfo.cs
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.pdb
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralData.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralData.pdb
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csproj.CopyComplete
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralDTO.pdb
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.deps.json
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralData.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralData.pdb
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\bin\Debug\netstandard2.0\GeneralDTO.pdb
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfoInputs.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfo.cs
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csproj.CopyComplete
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.pdb

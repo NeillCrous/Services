@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.\SQLEXPRESS;Database=GeneralDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model\Entities -ContextDir Model -Context GeneralContext -t eventLog, users, Employee -f -UseDatabaseNames

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLG15D2eEfJ1ph4FWesX2/g1aiXfclhpYLd1OhRp6nJsSVuR6OgR0BrMv3rvLcN+NeYxgtV9nLwv2X4dj85IVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\UserPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

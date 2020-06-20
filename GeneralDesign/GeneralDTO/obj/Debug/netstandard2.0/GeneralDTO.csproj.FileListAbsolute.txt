@@ -1,0 +1,18 @@
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.deps.json
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.pdb
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfo.cs
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.pdb
+C:\Users\hp\Documents\Private Development\Main Repo\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.deps.json
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.pdb
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfoInputs.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfo.cs
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.dll
+C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.pdb
