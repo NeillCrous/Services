@@ -1,6 +1,7 @@
 ﻿using GeneralBusiness.BusinessProcesses;
 using GeneralDTO;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace GeneralAPI.Controllers
 {
@@ -20,9 +21,17 @@ namespace GeneralAPI.Controllers
         /// <param name="dto">Blueprint of the user.</param>
         [Route("Insert")]
         [HttpPost]
-        public void Insert([FromBody] UserDTO dto)
+        public IActionResult Insert([FromBody] UserDTO dto)
         {
-            UserPO.Insert(dto);
+            try
+            {
+                UserPO.Insert(dto);
+                return Ok(dto);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }
