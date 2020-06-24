@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aDxKnRPqyOgpE5Aw0p+FFDh8O46z7WDJKzbLLGCEopU2/u0kHo5GcnGBpCW7VCTsgumD84OfyuoHURU+G/AloA==",
+  "dgSpecHash": "KlGG6Fe6kh9DDqfgwix5OKT0heGCpRRmoT8s7zWW1+G3Io6P05hqSY+zZZaqnGrU1fZU3Q9HcHuKbL2OtFnmxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
+  "projectFilePath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\UserPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -16,3 +16,11 @@ C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netst
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csproj.CoreCompileInputs.cache
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.dll
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.pdb
+D:\Repositories\Services\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.deps.json
+D:\Repositories\Services\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.dll
+D:\Repositories\Services\GeneralDesign\GeneralDTO\bin\Debug\netstandard2.0\GeneralDTO.pdb
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfoInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.AssemblyInfo.cs
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csproj.CoreCompileInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.dll
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.pdb

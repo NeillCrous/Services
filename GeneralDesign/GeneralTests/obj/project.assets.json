@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
+      "projectUniqueName": "D:\\Repositories\\Services\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
       "projectName": "GeneralTests",
-      "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
+      "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralTests\\GeneralTests.csproj",
       "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralTests\\obj\\",
+      "outputPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,7 +32,7 @@ namespace GeneralBusiness.BusinessProcesses
                 UserBO.Insert(newEntity);
 
                 // Log the event.
-                EventLogBO.Insert($"User {newEntity.Name} {newEntity.Surname} has been created.", newEntity.Id.ToString());
+                //EventLogBO.Insert($"User {newEntity.Name} {newEntity.Surname} has been created.", newEntity.Id.ToString());
                 Repo.EndTransaction();
 
                 return newEntity;

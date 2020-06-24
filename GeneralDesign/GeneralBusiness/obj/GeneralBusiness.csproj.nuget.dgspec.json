@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {}
+    "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {
+    "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj",
+        "projectUniqueName": "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj",
         "projectName": "GeneralBusiness",
-        "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj",
+        "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj",
         "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\obj\\",
+        "outputPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\GeneralData.csproj": {
-                "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\GeneralData.csproj"
+              "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\GeneralData.csproj": {
+                "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\GeneralData.csproj"
               },
-              "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj": {
-                "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj"
+              "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj": {
+                "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\GeneralData.csproj": {
+    "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\GeneralData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\GeneralData.csproj",
+        "projectUniqueName": "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\GeneralData.csproj",
         "projectName": "GeneralData",
-        "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\GeneralData.csproj",
+        "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\GeneralData.csproj",
         "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralData\\obj\\",
+        "outputPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj": {
+    "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj",
+        "projectUniqueName": "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj",
         "projectName": "GeneralDTO",
-        "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj",
+        "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\GeneralDTO.csproj",
         "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralDTO\\obj\\",
+        "outputPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

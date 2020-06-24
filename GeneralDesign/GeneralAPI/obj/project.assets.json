@@ -5019,11 +5019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralAPI\\GeneralAPI.csproj",
+      "projectUniqueName": "D:\\Repositories\\Services\\GeneralDesign\\GeneralAPI\\GeneralAPI.csproj",
       "projectName": "GeneralAPI",
-      "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralAPI\\GeneralAPI.csproj",
+      "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralAPI\\GeneralAPI.csproj",
       "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralAPI\\obj\\",
+      "outputPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5039,8 +5039,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {
-              "projectPath": "C:\\Users\\UserPC\\source\\repos\\Neill Proj\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj"
+            "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj": {
+              "projectPath": "D:\\Repositories\\Services\\GeneralDesign\\GeneralBusiness\\GeneralBusiness.csproj"
             }
           }
         }

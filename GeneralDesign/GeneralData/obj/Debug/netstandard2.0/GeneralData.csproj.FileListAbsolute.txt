@@ -16,3 +16,12 @@ C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralData\obj\Debug\nets
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.csproj.CoreCompileInputs.cache
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.dll
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.pdb
+D:\Repositories\Services\GeneralDesign\GeneralData\bin\Debug\netstandard2.0\GeneralData.deps.json
+D:\Repositories\Services\GeneralDesign\GeneralData\bin\Debug\netstandard2.0\GeneralData.dll
+D:\Repositories\Services\GeneralDesign\GeneralData\bin\Debug\netstandard2.0\GeneralData.pdb
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.AssemblyInfoInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.AssemblyInfo.cs
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.csproj.CoreCompileInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.dll
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.pdb
+D:\Repositories\Services\GeneralDesign\GeneralData\obj\Debug\netstandard2.0\GeneralData.csprojAssemblyReference.cache

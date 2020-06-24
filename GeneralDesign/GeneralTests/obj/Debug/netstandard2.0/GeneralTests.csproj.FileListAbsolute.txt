@@ -16,3 +16,11 @@ C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralTests\obj\Debug\net
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.csproj.CoreCompileInputs.cache
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.dll
 C:\Users\UserPC\source\repos\Neill Proj\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.pdb
+D:\Repositories\Services\GeneralDesign\GeneralTests\bin\Debug\netstandard2.0\GeneralTests.deps.json
+D:\Repositories\Services\GeneralDesign\GeneralTests\bin\Debug\netstandard2.0\GeneralTests.dll
+D:\Repositories\Services\GeneralDesign\GeneralTests\bin\Debug\netstandard2.0\GeneralTests.pdb
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.AssemblyInfoInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.AssemblyInfo.cs
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.csproj.CoreCompileInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.dll
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.pdb
