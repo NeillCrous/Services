@@ -169,8 +169,6 @@ D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\Genera
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.csprojAssemblyReference.cache
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.AssemblyInfoInputs.cache
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.AssemblyInfo.cs
-D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.csproj.CoreCompileInputs.cache
-D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.RazorTargetAssemblyInfo.cache
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.csproj.CopyComplete
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\staticwebassets\GeneralAPI.StaticWebAssets.Manifest.cache
@@ -178,3 +176,11 @@ D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\static
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.dll
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.pdb
 D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.genruntimeconfig.cache
+D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.csproj.CoreCompileInputs.cache
+D:\Repositories\Services\GeneralDesign\GeneralAPI\obj\Debug\netcoreapp3.1\GeneralAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repositories\Services\GeneralDesign\GeneralAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

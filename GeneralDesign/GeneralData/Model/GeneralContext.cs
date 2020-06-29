@@ -18,6 +18,7 @@ namespace GeneralData.Model
 
         public virtual DbSet<Employee> Employee { get; set; }
         public virtual DbSet<eventLog> eventLog { get; set; }
+        public virtual DbSet<ng_Product> ng_Product { get; set; }
         public virtual DbSet<users> users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -60,6 +61,39 @@ namespace GeneralData.Model
                 entity.Property(e => e.ObjectId)
                     .HasMaxLength(200)
                     .IsUnicode(false);
+            });
+
+            modelBuilder.Entity<ng_Product>(entity =>
+            {
+                entity.HasKey(e => e.productId);
+
+                entity.Property(e => e.productId).ValueGeneratedNever();
+
+                entity.Property(e => e.description)
+                    .IsRequired()
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.imageUrl)
+                    .IsRequired()
+                    .HasMaxLength(200)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.price).HasColumnType("decimal(18, 2)");
+
+                entity.Property(e => e.productCode)
+                    .IsRequired()
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.productName)
+                    .IsRequired()
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.releaseDate).HasColumnType("datetime");
+
+                entity.Property(e => e.starRating).HasColumnType("decimal(18, 2)");
             });
 
             modelBuilder.Entity<users>(entity =>

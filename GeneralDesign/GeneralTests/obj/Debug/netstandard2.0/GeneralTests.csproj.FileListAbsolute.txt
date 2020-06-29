@@ -24,3 +24,4 @@ D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\Gen
 D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.csproj.CoreCompileInputs.cache
 D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.dll
 D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.pdb
+D:\Repositories\Services\GeneralDesign\GeneralTests\obj\Debug\netstandard2.0\GeneralTests.csprojAssemblyReference.cache

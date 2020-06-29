@@ -24,3 +24,4 @@ D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\Gener
 D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csproj.CoreCompileInputs.cache
 D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.dll
 D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.pdb
+D:\Repositories\Services\GeneralDesign\GeneralDTO\obj\Debug\netstandard2.0\GeneralDTO.csprojAssemblyReference.cache

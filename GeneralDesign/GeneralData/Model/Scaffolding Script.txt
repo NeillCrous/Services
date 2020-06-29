@@ -1,4 +1,4 @@
-﻿Scaffold-DbContext "Server=.\SQLEXPRESS;Database=GeneralDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model\Entities -ContextDir Model -Context GeneralContext -t eventLog, users, Employee -f -UseDatabaseNames
+﻿Scaffold-DbContext "Server=.\SQLEXPRESS;Database=GeneralDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model\Entities -ContextDir Model -Context GeneralContext -t eventLog, users, Employee, ng_Product -f -UseDatabaseNames
 
 //View Other Windows Package Manager Console (Ensure you point to Data project) copy above and Enter to run script.
 
