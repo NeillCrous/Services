@@ -67,8 +67,6 @@ namespace GeneralData.Model
             {
                 entity.HasKey(e => e.productId);
 
-                entity.Property(e => e.productId).ValueGeneratedNever();
-
                 entity.Property(e => e.description)
                     .IsRequired()
                     .HasMaxLength(250)

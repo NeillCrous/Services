@@ -23,5 +23,21 @@ namespace GeneralAPI.Controllers
         [Route("GetAll")]
         [HttpGet]
         public IEnumerable<ng_Product> Get() => ng_ProductBO.GetAll();
+
+        [Route("Insert")]
+        [HttpPost]
+        public IActionResult Insert([FromBody] GeneralDTO.ng_ProductDTO dto)
+        {
+            try
+            {
+                ng_ProductBO.Insert(dto);
+                return Ok(dto);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
     }
 }
